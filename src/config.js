@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Lateef O. Akinola | Machine Learning Engineer | Robotics Enthusiast',
   siteDescription:
     'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
@@ -8,19 +8,19 @@ module.exports = {
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
-  twitterHandle: '@chandrikadeb7',
+  name: 'Lateef O. Akinola',
+  location: 'Lagos, Nigeria',
+  email: 'akinolalateefolanrewaju@gmail.com',
+  github: 'https://github.com/LateefAkinola',
+  twitterHandle: '@AkLatino',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/LateefAkinola',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/lateefakinola/',
     },
     {
       name: 'Codepen',

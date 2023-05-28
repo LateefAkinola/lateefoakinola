@@ -1,23 +1,21 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'pic_001.jpg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
   - Python
+  - TensorFlow
+  - C++
+  - MATLAB
+  - CoppeliaSim
+  - Autodesk AutoCAD
+  - ANSYS
+  - SOLIDWORKS
+  - CorelDRAW
 ---
+Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I completed my Bachelors in Mechanical Engineering (2016-2023) with a [First Class (95% aggregate)]().
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+I started learning by taking courses via [Coursera](https://www.coursera.org/) and in 2022, I got selected in the [top 2% of 14000 applicants]() to participate in [Google Dev Machine Learning BootCamp](https://developers.google.com/). The experience was remarkable and helped built my skills.
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
-
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
-
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+My research interest is primarily focused on the intelligent control systems and mechanisms of autonomous robots to ensure their efficient and safe operation in a human-involved environment.
 
 Here is a list of the technologies that I'm familiar with!
