@@ -1,17 +1,16 @@
 ---
 date: '3'
-title: 'Face Mask Detection'
-cover: 'face-mask.png'
-github: 'https://github.com/chandrikadeb7/Face-Mask-Detection'
-external: 'https://www.youtube.com/watch?v=AAkNyZlUae0'
+title: 'IK of a UR5 Robot'
+cover: 'Screenshot.png'
+github: 'https://github.com/LateefAkinola/Inverse-Kinematics-of-a-UR5-Robot'
+external: 'https://github.com/LateefAkinola/Inverse-Kinematics-of-a-UR5-Robot'
 tech:
-  - OpenCV
-  - TensorFlow
-  - Keras
   - Python
+  - CoppeliaSim
+  - Jupyter Notebook
+
 showInProjects: true
 ---
 
-Face Mask Detection system to detect face masks in static images as well as in real-time video streams. Own custom dataset was built using Bing Search API and Kaggle.
+The Inverse Kinematics (IK) function implements the Newton-Raphson process and generates a report for each iteration. The report includes the iteration number, the joint vector representing the robot's configuration, the end-effector position and orientation in three-dimensional space, the error twist representing the deviation between the desired and current end-effector poses, and the magnitudes of the angular and linear errors. This allows for monitoring the progress of the IK algorithm and evaluating the convergence towards the desired solution.
 
-Inspired by Adrian Rosebrock's [PyImageSearch Blog](https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/).
