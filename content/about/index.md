@@ -12,7 +12,7 @@ skills:
   - SOLIDWORKS
   - CorelDRAW
 ---
-Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I completed my Bachelors in Mechanical Engineering (2016-2023) with a [First Class (95% aggregate)]().
+Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I completed my Bachelors in Mechanical Engineering (2016-2023) with a [First Class (94.2% aggregate)]().
 
 I started learning by taking courses via [Coursera](https://www.coursera.org/) and in 2022, I got selected in the [top 2% of 14000 applicants]() to participate in [Google Dev Machine Learning BootCamp](https://developers.google.com/). The experience was remarkable and helped built my skills.
 
