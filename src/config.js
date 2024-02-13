@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Lateef O. Akinola | ML & Robotics Enthusiast',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Lateef Akinola is a Machine Learning Engineer who loves learning new things.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+    'Lateef Akinola, lateef, machine learning, AI, Artificial Intelligence, Google',
   siteUrl: 'https://lateefoakinola.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
@@ -24,15 +24,15 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://codepen.io/LateefAkinola',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/akinola_lateef_olanrewaju/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/aklatino',
     },
   ],
 

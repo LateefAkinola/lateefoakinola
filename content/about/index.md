@@ -4,13 +4,14 @@ avatar: 'pic_001.jpg'
 skills:
   - Python
   - TensorFlow
-  - C++
+  - SQL
   - MATLAB
   - CoppeliaSim
   - Autodesk AutoCAD
   - ANSYS
   - SOLIDWORKS
-  - CorelDRAW
+  - CorelDraw
+  - ROS2
 ---
 Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I completed my Bachelors in Mechanical Engineering (2016-2023) with a [First Class (94.2% aggregate)]().
 
