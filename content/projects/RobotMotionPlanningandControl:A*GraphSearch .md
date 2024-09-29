@@ -4,7 +4,7 @@ title: 'A* Search Graph'
 github: 'https://github.com/LateefAkinola/Robot-Motion-Planning_A-Star-Graph-Search'
 external: ''
 tech:
-  - Jupyter NOtebook
+  - Jupyter Notebook
   - Python
   - CoppeliaSim
 company: ''

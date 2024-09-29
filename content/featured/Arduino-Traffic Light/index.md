@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Traffic Light with Arduino'
 cover: 'Arduino.jpg'
 github: 'https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino'

@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'Robot Path Planning with PRM'
 cover: 'results_screenshot.png'
 github: https://github.com/LateefAkinola/Robot-Sampling-Based-Planning-with-PRM'
