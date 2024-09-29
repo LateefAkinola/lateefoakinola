@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '4'
 title: 'Mini-MobileArmBot with ROS2'
 cover: 'Screenshot.png'
 github: 'https://github.com/LateefAkinola/Mini-MobileArmBot_with_ROS2'

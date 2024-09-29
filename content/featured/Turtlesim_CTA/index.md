@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'ROS2 Turtlesim-Catch_Them_All Simulation'
 cover: 'Screenshot.png'
 github: 'https://github.com/LateefAkinola/ROS2-Turtlesim-Catch_Them_All-Project'
