@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-In this project, modelled parts of robot arm in SolidWorks were assembled using ROS framework and simulated in Gazebo. Moveit2 stack was utilized for simulating the robot arm's manipulation.
+In this project, modelled parts of a 6 DOF robot arm in SolidWorks were assembled using ROS framework and simulated in Gazebo. Moveit2 stack was utilized for simulating the robot arm's manipulation.
