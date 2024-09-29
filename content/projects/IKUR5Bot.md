@@ -8,7 +8,7 @@ tech:
   - CoppeliaSim
   - Jupyter Notebook
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 The Inverse Kinematics (IK) function implements the Newton-Raphson process and generates the joint's report for each iteration. The report includes the iteration number, the joint vector, the end-effector position and orienrepresenting the deviation between the desired and current end-effector poses, and the magnitudes of the angular and linear errors.
