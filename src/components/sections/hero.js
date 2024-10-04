@@ -43,7 +43,7 @@ const StyledSubtitle = styled.h3`
   ${media.phablet`font-size: 20px;`};
   ${media.phone`font-size: 10px;`};
 `;
-const StyledGreeting = styled.h4`
+const StyledGreeting = styled.h3`
   font-size: 30px;
   line-height: 0.4;
   color: ${colors.slate};

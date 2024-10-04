@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Lateef Akinola is a Machine Learning Engineer who loves learning new things.',
   siteKeywords:
-    'Lateef Akinola, lateef, machine learning, AI, Artificial Intelligence, Google',
+    'Lateef Akinola, lateef, machine learning, AI, Artificial Intelligence, Google, Robotics',
   siteUrl: 'https://lateefoakinola.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
