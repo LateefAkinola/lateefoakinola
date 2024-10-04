@@ -13,7 +13,7 @@ skills:
   - CorelDraw
   - ROS2/Gazebo/Nav2/SLAM
 ---
-Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I completed my Bachelor's in Mechanical Engineering (2016-2023) with a [First Class (4.72/5.00 | 94.4%)]().
+Hello! I started programming when I was a sophomore at [The Federal University of Technology,  Akure](https://www.futa.edu.ng/) where I obtained my BEng in Mechanical Engineering (2016-2023) with a [First Class (4.72/5.00 | 94.4%)]().
 
 In 2022, I got selected in the [top 1% of 14000 applicants]() to participate in the [Google Dev Machine Learning BootCamp](https://developers.google.com/). The experience was remarkable and helped built my skills.
 
