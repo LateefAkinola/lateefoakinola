@@ -45,6 +45,7 @@ const StyledSubtitle = styled.h3`
 `;
 const StyledGreeting = styled.h4`
   font-size: 25px;
+  margin-top: 15px;
   line-height: 0.5;
   color: ${colors.slate};
   ${media.desktop`font-size: 20px;`};
