@@ -35,13 +35,13 @@ const StyledTitle = styled.h2`
   ${media.phone`font-size: 40px;`};
 `;
 const StyledSubtitle = styled.h3`
-  font-size: 60px;
+  font-size: 50px;
   line-height: 1.1;
   color: ${colors.slate};
-  ${media.desktop`font-size: 50px;`};
-  ${media.tablet`font-size: 40px;`};
-  ${media.phablet`font-size: 30px;`};
-  ${media.phone`font-size: 20px;`};
+  ${media.desktop`font-size: 40px;`};
+  ${media.tablet`font-size: 30px;`};
+  ${media.phablet`font-size: 20px;`};
+  ${media.phone`font-size: 10px;`};
 `;
 const StyledDescription = styled.div`
   margin-top: 25px;
@@ -70,7 +70,7 @@ const Hero = ({ data }) => {
     <StyledOverline style={{ transitionDelay: '100ms' }}>{frontmatter.title}</StyledOverline>
   );
   const two = () => (
-    <StyledTitle style={{ transitionDelay: '200ms' }}>{frontmatter.name}.</StyledTitle>
+    <StyledTitle style={{ transitionDelay: '200ms' }}>{frontmatter.name}</StyledTitle>
   );
   const three = () => (
     <StyledSubtitle style={{ transitionDelay: '300ms' }}>{frontmatter.subtitle}</StyledSubtitle>
