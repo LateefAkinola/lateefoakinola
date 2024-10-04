@@ -43,15 +43,15 @@ const StyledSubtitle = styled.h3`
   ${media.phablet`font-size: 20px;`};
   ${media.phone`font-size: 10px;`};
 `;
-const StyledGreeting = styled.h3`
-  font-size: 30px;
-  line-height: 0.9;
+const StyledGreeting = styled.h4`
+  font-size: 25px;
+  line-height: 0.5;
   color: ${colors.slate};
   ${media.desktop`font-size: 20px;`};
   ${media.tablet`font-size: 10px;`};
 `;
 const StyledDescription = styled.div`
-  margin-top: 25px;
+  margin-top: 20px;
   width: 50%;
   max-width: 500px;
   a {
@@ -60,7 +60,7 @@ const StyledDescription = styled.div`
 `;
 const StyledEmailLink = styled.a`
   ${mixins.bigButton};
-  margin-top: 50px;
+  margin-top: 40px;
 `;
 
 const Hero = ({ data }) => {
