@@ -45,7 +45,7 @@ const StyledSubtitle = styled.h3`
 `;
 const StyledGreeting = styled.h3`
   font-size: 30px;
-  line-height: 0.4;
+  line-height: 0.9;
   color: ${colors.slate};
   ${media.desktop`font-size: 20px;`};
   ${media.tablet`font-size: 10px;`};
@@ -83,7 +83,7 @@ const Hero = ({ data }) => {
     <StyledSubtitle style={{ transitionDelay: '300ms' }}>{frontmatter.subtitle}</StyledSubtitle>
   );
   const six = () => (
-    <StyledGreeting style={{ transitionDelay: '300ms' }}>{frontmatter.greeting}</StyledGreeting>
+    <StyledGreeting style={{ transitionDelay: '600ms' }}>{frontmatter.greeting}</StyledGreeting>
   );
   const four = () => (
     <StyledDescription
