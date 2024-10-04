@@ -83,7 +83,7 @@ const Hero = ({ data }) => {
     <StyledSubtitle style={{ transitionDelay: '300ms' }}>{frontmatter.subtitle}</StyledSubtitle>
   );
   const six = () => (
-    <StyledGreeting style={{ transitionDelay: '600ms' }}>{frontmatter.greeting}</StyledGreeting>
+    <StyledGreeting style={{ transitionDelay: '600ms' }}>Glad to e-meet you!</StyledGreeting>
   );
   const four = () => (
     <StyledDescription
