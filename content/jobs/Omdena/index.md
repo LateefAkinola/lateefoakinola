@@ -2,7 +2,7 @@
 date: '2023-07-21'
 title: 'Junior Machine Learning Engineer	'
 company: 'Omdena'
-range: 'July 2023 - Present'
+range: 'July 2023 - Aug 2023'
 url: 'https://www.omdena.com/'
 ---
 

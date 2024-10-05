@@ -2,7 +2,7 @@
 date: '2023-11-27'
 title: 'Robotics Intern'
 company: 'Reflect Robotics'
-range: 'Nov 2023 - Oct 2024'
+range: 'Nov 2023 - Present'
 url: ''
 ---
 
