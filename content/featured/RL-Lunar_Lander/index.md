@@ -6,7 +6,7 @@ github: 'https://github.com/LateefAkinola/Virtual-Lunar-Lander-with-Deep-Reinfor
 external: 'https://drive.google.com/file/d/1lGRkJJ0eoJO-BDRfmFZjgNPtemC6tr-P/view'
 tech:
   - Python
-  - RL
+  - Reinforcement Learning
   - Deep Learning
 
 showInProjects: true

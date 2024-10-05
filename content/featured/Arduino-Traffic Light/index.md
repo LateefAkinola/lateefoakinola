@@ -1,6 +1,6 @@
 ---
-date: '1'
-title: 'Traffic Control System'
+date: '2'
+title: 'Traffic Flow Control System'
 cover: 'Arduino.jpg'
 github: 'https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino'
 external: 'https://github.com/LateefAkinola/4-Way-Traffic-Light-Prototype-with-Arduino'
