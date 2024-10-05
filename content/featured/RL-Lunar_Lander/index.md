@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Virtual Lunar Lander with Deep RL'
-cover: 'lunar_lander.mp4'
+cover: 'lunar_lander.png'
 github: 'https://github.com/LateefAkinola/Virtual-Lunar-Lander-with-Deep-Reinforcement-Learning'
 external: 'https://drive.google.com/file/d/1lGRkJJ0eoJO-BDRfmFZjgNPtemC6tr-P/view'
 tech:
