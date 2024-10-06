@@ -16,4 +16,3 @@ A PRM program was written to carry out a sampling-based planning in order to fin
 
 The program takes the obstacles.csv file as input, chooses its own random samples in the (x, y) C-space, and its output consists of three files: nodes.csv, edges.csv, and path.csv.
 For visualization purposes, the csv motion planning [kilobot](https://www.kilobotics.com/) scene was utilized.
-

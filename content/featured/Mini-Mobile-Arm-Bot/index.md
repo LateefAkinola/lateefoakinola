@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-In this project, I modeled a simple mobile base robot with a camera sensor to provide vision for navigation. A simple robot arm was then added on top of the mobile base for manipulation. I employed [Gazebo Plugins](https://gazebosim.org/libs/plugin/) to configure the sensor, for the differential drive control for the rear wheels, and for the joint state publisher and pose trajectory updates for the robot arm joints.
+In this project, I modeled a simple mobile base robot with a camera sensor to provide vision for navigation. A simple robot arm was then added on top of the mobile base for manipulation. I employed [Gazebo Plugins](https://gazebosim.org/libs/plugin/) to configure the sensor, the rear wheels' differential drive control, and the robot arm's joint state publisher and pose trajectory updates.
