@@ -4,9 +4,11 @@ title: 'Semantic Image Segmentation on the CARLA Self-Driving Car Dataset'
 github: 'https://github.com/LateefAkinola/Semantic-Image-Segmentation-on-the-CARLA-Self-Driving-Car-Dataset-using-U-Net'
 external: ''
 tech:
+  - Computer Vision
+  - Machine Learning
+  - CNN
   - Python
-  - C++
-  - ROS2
+  - Tensorflow
 company: 'Google Dev'
 showInProjects: false
 ---
