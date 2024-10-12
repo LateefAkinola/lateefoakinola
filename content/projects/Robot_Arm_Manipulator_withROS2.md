@@ -8,7 +8,7 @@ tech:
   - C++
   - ROS2
   - Gazebo/Rviz/Moveit2
-company: ''
+company: 'Reflect Robotics'
 showInProjects: true
 ---
 
