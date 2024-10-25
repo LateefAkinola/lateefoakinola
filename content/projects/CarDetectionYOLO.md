@@ -13,4 +13,4 @@ company: 'Google Dev'
 showInProjects: true
 ---
 
-As part of a self-driving car project, the focus is on developing a robust car detection system. This part explores the implementation of YOLO for object detection, specifically applying it to the domain of car detection.
+As part of a self-driving car project, the focus is on developing a robust car detection system. This part explores the implementation of YOLO for object detection, specifically applying it to the domain of car detection.55555555555555555555555555555555555555555555555555555555555

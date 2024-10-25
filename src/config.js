@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Lateef O. Akinola | ML & Robotics Enthusiast',
+  siteTitle: 'Lateef O. Akinola | ML & Robotics',
   siteDescription:
     'Lateef Akinola is a Machine Learning Engineer who loves learning new things.',
   siteKeywords:
@@ -28,11 +28,11 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/akinola_lateef_olanrewaju/',
+      url: 'https://www.instagram.com/loakinola/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/aklatino',
+      url: 'https://twitter.com/loakinola',
     },
   ],
 
